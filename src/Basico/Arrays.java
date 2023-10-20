@@ -54,28 +54,7 @@ public class Arrays {
     }
     
     
-    /**
-     * EJERCICIO 2
-     *  Calcular si un numero es primo 
-     * 
-     * 
-     * 
-     */
     
-    public static int primo( int numero){
-        
-        Scanner sc = new Scanner(System.in);
-         
-        if(numero % 1 == 0 && numero % numero == 0){
-            System.out.println("El numero ingresado es primo");
-            
-        }else{
-            System.out.println("El numero no es primo");
-        }
-        
-        return 0; 
-
-    }
     
     public static void main(String[] args) {
         
@@ -85,9 +64,7 @@ public class Arrays {
         System.out.println("Digite los 5 numeros: ");
         promedio(); 
         
-        System.out.println("Digite el numero para saber si es primo: ");
-        numero = sc.nextInt();
-        primo(numero);
+
     }
 
 }
