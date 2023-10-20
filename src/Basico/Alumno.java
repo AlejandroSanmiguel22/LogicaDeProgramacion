@@ -49,24 +49,23 @@ public class Alumno {
         
         System.out.printf("--------------- Notas estudiante %s ---------------", nombre);
         
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i <= 3; i++) {
             
             System.out.println("");
             System.out.printf("Digite la nota %d: ", (i+1));
             nota = sc.nextDouble();
-            notas.add(nota);
-            
+            notas.add(nota);  
         }
         
         for (int i = 0; i < notas.size(); i++) {
-            
-            suma +=  notas.get(i); 
-            
+     
+            suma +=  notas.get(i);  
         }
         
         promedio = suma / notas.size();
         
         System.out.println("\n El promedio de notas del estudiante es: "+ promedio);
+        
         return promedio; 
         
     }

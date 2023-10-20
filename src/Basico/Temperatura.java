@@ -33,21 +33,19 @@ public class Temperatura {
         
         double celsius; 
         celsius = kelvin - 273.15; 
-        System.out.println("Los grados celsius es: "+ celsius);
         
-        return celsius ; 
+        return celsius;
         
     }
    
     //Metodo de kelvin a fahrenheit
-
     public double fahrenheit(double kelvin) {
 
         double fahrenheit;
-        fahrenheit = ((kelvin * 1.8)+32);
-        System.out.println("Los grados fahrenheit es: " + fahrenheit);
-        return fahrenheit;
-
+        fahrenheit = ((kelvin -  273.15)*1.8+32);
+        
+        return  fahrenheit; 
+        
     }
     
     
@@ -63,10 +61,9 @@ public class Temperatura {
         
         Temperatura k = new Temperatura();
         
-        k.celsius(celsius);
-        k.fahrenheit(fahrenheit);
-        
-       
+        System.out.println("Los grados celsius es: "+ k.celsius(celsius));
+        System.out.println("Los grados fahrenheit es: "+ k.fahrenheit(fahrenheit));
+
         
     }
 }
