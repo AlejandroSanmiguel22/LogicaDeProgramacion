@@ -28,15 +28,12 @@ public class Coche {
    
     
     public void estaArrancado(){
-        if(estaArrancado){
+        if(estaArrancado)
             System.out.printf("El coche %s %s esta arracando \n",
                     this.modelo, this.color);
-
-        }
-        else{
+        else
             System.out.printf("El coche %s %s esta detenido \n",
                     this.modelo, this.color);
-        }
             
     }
     
@@ -75,7 +72,7 @@ public class Coche {
         cocheNissan.estaArrancado();
         System.out.println();
         System.out.println(cocheNissan.toString());
-        
+        /*
         System.out.println();
         Coche cocheNissanNegro = new Coche("Nissan", 
                 "Versa", 
@@ -87,5 +84,6 @@ public class Coche {
         System.out.println(cocheNissanNegro.toString());
         System.out.println();
         cocheNissanNegro.estaArrancado();
+*/
     }
 }

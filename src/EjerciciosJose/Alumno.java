@@ -1,5 +1,7 @@
 package EjerciciosJose;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Jose Angel Silva
@@ -42,7 +44,7 @@ public class Alumno {
     
     public static void main(String[] args) {
         Alumno alum1 = new Alumno();
-        float[] listaCalificaciones = {10f, 9.9f, 8.5f, 9.1f};
+        float[] listaCalificaciones = SolicitudCalif((byte)4);
         alum1.setNombreAlumno("Jose Angel Silva");
         alum1.setCuatroCalificaciones(listaCalificaciones);
         System.out.println(alum1.mostrarCalificacion());
@@ -55,5 +57,14 @@ public class Alumno {
         System.out.println(alumno2.mostrarCalificacion());
     }
     
+    public static float[] SolicitudCalif(byte logCalf){
+       float[] listaCalf = new float[logCalf];
+       Scanner inp = new Scanner(System.in);
+       for(byte i= 0; i < listaCalf.length; i++){
+           System.out.printf("Ingrese la calf %d: ", (i+1));
+           listaCalf[i] = inp.nextFloat();
+       }
+       return listaCalf;
+    }
     
 }
