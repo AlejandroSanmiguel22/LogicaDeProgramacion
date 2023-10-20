@@ -30,13 +30,13 @@ public class Arrays {
             Scanner sc = new Scanner(System.in);
             int numero; 
             
-            System.out.println("Digite el numero: "+ (i+1));
+            System.out.printf("Digite el numero %d : ",(i+1));
             numero = sc.nextInt();
             numeroList.add(numero);
         }
         
         int suma =0; 
-        double promedio= 0; 
+        double promedio; 
 
         //Sumamos el array y encontramos el promedio
         for (int i = 0; i < numeroList.size() ; i++) {
