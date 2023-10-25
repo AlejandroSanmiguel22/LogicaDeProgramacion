@@ -12,6 +12,7 @@
         </file>
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+<<<<<<< Updated upstream
         <group>
             <file>file:/D:/WorkSpace/WorkSpaceNetbeans/LogicaDeProgramacion/src/Basico/Arrays.java</file>
             <file>file:/D:/WorkSpace/WorkSpaceNetbeans/LogicaDeProgramacion/src/Basico/NumeroPrimo.java</file>
@@ -25,5 +26,8 @@
             <file>file:/C:/ProyectsJava/LogicaDeProgramacion/src/EjerciciosJose/Persona.java</file>
 >>>>>>> JoseEje
         </group>
+=======
+        <group/>
+>>>>>>> Stashed changes
     </open-files>
 </project-private>
