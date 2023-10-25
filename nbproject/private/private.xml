@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
-<<<<<<< HEAD
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
         <file>
             <url>src/Basico/Arrays.java</url>
@@ -12,24 +11,9 @@
         </file>
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-<<<<<<< Updated upstream
         <group>
-            <file>file:/D:/WorkSpace/WorkSpaceNetbeans/LogicaDeProgramacion/src/Basico/Arrays.java</file>
-            <file>file:/D:/WorkSpace/WorkSpaceNetbeans/LogicaDeProgramacion/src/Basico/Rectangulo.java</file>
-            <file>file:/D:/WorkSpace/WorkSpaceNetbeans/LogicaDeProgramacion/src/Basico/NumeroPrimo.java</file>
-            <file>file:/D:/WorkSpace/WorkSpaceNetbeans/LogicaDeProgramacion/src/Basico/Temperatura.java</file>
+            <file>file:/D:/WorkSpace/WorkSpaceNetbeans/LogicaDeProgramacion/src/Basico/ConversorMedidasPies.java</file>
             <file>file:/D:/WorkSpace/WorkSpaceNetbeans/LogicaDeProgramacion/src/Basico/Alumno.java</file>
-=======
-    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
-    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/ProyectsJava/LogicaDeProgramacion/src/Basico/Arrays.java</file>
-            <file>file:/C:/ProyectsJava/LogicaDeProgramacion/src/EjerciciosJose/Coche.java</file>
-            <file>file:/C:/ProyectsJava/LogicaDeProgramacion/src/EjerciciosJose/Persona.java</file>
->>>>>>> JoseEje
         </group>
-=======
-        <group/>
->>>>>>> Stashed changes
     </open-files>
 </project-private>
