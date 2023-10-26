@@ -10,4 +10,23 @@ package EjerciciosAlejandro.EjerciciosCurso.Cubo;
  
 public class Cubo {
 
+    //Atributos 
+    private int ancho; 
+    private int largo; 
+    private int alto;
+
+    //Constructores
+    public Cubo(){
+    }
+
+    public Cubo(int ancho, int largo, int alto){
+        this.alto = alto; 
+        this.ancho = ancho; 
+        this.largo = largo; 
+    }
+
+    //Set y get 
+    
+
+
 }

@@ -59,11 +59,12 @@ public class Arrays {
     public static void main(String[] args) {
         
          Scanner sc = new Scanner(System.in);
-          int numero; 
+
         
         System.out.println("Digite los 5 numeros: ");
         promedio(); 
         
+        sc.close();
 
     }
 
