@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
-<<<<<<< HEAD
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
         <file>
             <url>src/Basico/Arrays.java</url>
@@ -13,19 +12,20 @@
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/WorkSpace/WorkSpaceNetbeans/LogicaDeProgramacion/src/Basico/Arrays.java</file>
-            <file>file:/D:/WorkSpace/WorkSpaceNetbeans/LogicaDeProgramacion/src/Basico/NumeroPrimo.java</file>
-            <file>file:/D:/WorkSpace/WorkSpaceNetbeans/LogicaDeProgramacion/src/Basico/Alumno.java</file>
-=======
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-<<<<<<< HEAD
             <file>file:/C:/ProyectsJava/LogicaDeProgramacion/src/Basico/Arrays.java</file>
             <file>file:/C:/ProyectsJava/LogicaDeProgramacion/src/EjerciciosJose/Coche.java</file>
             <file>file:/C:/ProyectsJava/LogicaDeProgramacion/src/EjerciciosJose/Persona.java</file>
             <file>file:/C:/ProyectsJava/LogicaDeProgramacion/src/EjerciciosJose/ProductoStock.java</file>
             <file>file:/C:/ProyectsJava/LogicaDeProgramacion/src/EjerciciosJose/Producto.java</file>
+            <file>file:/D:/WorkSpace/WorkSpaceNetbeans/LogicaDeProgramacion/src/EjerciciosAlejandro/EjerciciosCurso/Cubo/Main.java</file>
+            <file>file:/D:/WorkSpace/WorkSpaceNetbeans/LogicaDeProgramacion/src/EjerciciosAlejandro/Arrays.java</file>
+            <file>file:/D:/WorkSpace/WorkSpaceNetbeans/LogicaDeProgramacion/src/EjerciciosAlejandro/EjerciciosCurso/Cubo/Cubo.java</file>
+            <file>file:/D:/WorkSpace/WorkSpaceNetbeans/LogicaDeProgramacion/src/EjerciciosAlejandro/Alumno.java</file>
+>>>>>>> alejandro
+>>>>>>> 39974b0002636f00924c7e321a30a10ee97b174c
         </group>
     </open-files>
 </project-private>

@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-package Basico;
+package EjerciciosAlejandro;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -59,11 +59,12 @@ public class Arrays {
     public static void main(String[] args) {
         
          Scanner sc = new Scanner(System.in);
-          int numero; 
+
         
         System.out.println("Digite los 5 numeros: ");
         promedio(); 
         
+        sc.close();
 
     }
 
