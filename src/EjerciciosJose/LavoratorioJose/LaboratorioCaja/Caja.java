@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package EjerciciosJose.LavoratorioJose.LaboratorioCaja;
 
 /**
@@ -49,6 +45,16 @@ public class Caja {
     public void setAltura(int altura) {
         this.altura = altura;
     }
-    
-    
+
+    @Override
+    public String toString() {
+        return String.format("Informacion del cubo \n"
+                + "*********************\n"
+                + "Ancho: %d\n"
+                + "Largo: %d\n"
+                + "Profundo: %d\n"
+                + "Volumen: %d\n\n", this.ancho, this.altura, this.profundo,
+                calcularVolumen());
+    }
+ 
 }
