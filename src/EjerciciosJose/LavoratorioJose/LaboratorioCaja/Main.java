@@ -11,9 +11,9 @@ public class Main {
         caja1.setAltura(15);
         caja1.setAncho(12);
         caja1.setProfundo(2);
-        System.out.printf("Volumen 1: %d unidades cuadradas \n", caja1.calcularVolumen());
+        System.out.println(caja1.toString());
         
         Caja caja2 = new Caja(10, 6, 16);
-        System.out.println("Volumen 2: " + caja2.calcularVolumen() + " unidades cuadradas");
+        System.out.println(caja2.toString());
     }
 }
