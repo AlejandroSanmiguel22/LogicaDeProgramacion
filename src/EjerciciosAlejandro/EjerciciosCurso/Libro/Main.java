@@ -3,8 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-package EjerciciosAlejandro.EjerciciosCurso.Cubo;
-
+package EjerciciosAlejandro.EjerciciosCurso.Libro;
 
 
  //@author aleja
@@ -13,8 +12,8 @@ public class Main {
 
     public static void main(String[] args) {
         
-        Caja cubo = new Caja();
-        
-        cubo.mostrarDatos();
+        Libro libro = new Libro();
+        libro.mostrarLibro();
     }
+   
 }
