@@ -10,4 +10,9 @@ package EjerciciosAlejandro.EjerciciosCurso.Cubo;
  
 public class Main {
 
+    public static void main(String[] args) {
+        
+        Cubo cubo = new Cubo();
+
+    }
 }
